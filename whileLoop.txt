@@ -1,0 +1,5 @@
+//While loop
+total := 33
+while ( total < 100 ) do
+	total := total + 1
+done

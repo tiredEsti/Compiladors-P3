@@ -1,0 +1,7 @@
+//for loop
+i := 1
+for i in 3 .. 6 do
+	z := 3 + i
+	y := z * z
+done
+y
